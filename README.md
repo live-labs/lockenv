@@ -1,2 +1,2 @@
-# silo
-Simple, CLI-friendly secret storage for Terraform (but not limited to) and infrastructure-as-code workflows
+# lockenv
+Simple, CLI-friendly secret storage. The goal is to let you safely commit secrets to scm
